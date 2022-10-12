@@ -35,6 +35,7 @@ What is the Bash command to discover the IP Address of `www.skillsunion.com`?
 
 ```sh
 # Answer here
+dig www.skillsunion.com
 ```
 
 ---
@@ -45,6 +46,7 @@ Write is the command to copy a directory from `~/my_project` to `/etc/projects`?
 
 ```sh
 # Answer here
+sudo cp my_project -r /etc/projects
 ```
 ---
 
@@ -71,8 +73,9 @@ Use [draw.io](draw.io) to draw a system architecture diagram as described below:
 - The database must not be connected to the internet gateway.
 
 Share the link to your image of diagram.
-
----
+# Answer here
+#LINK BELOW
+https://drive.google.com/file/d/1FICde1cUKGvTEOfOW59g3w8VklnBKWE0/view?usp=sharing
 
 **Question 5 - System Error Management**
 
@@ -91,7 +94,8 @@ D - The principle of performance is not applied.
 *Q5B: What do you suggest could be done to improve the situation?*
 
 ```
-Answer here
+Q5a Answer B  - The principle of observability is not applied
+Q5b Answer     - he needs to add team mates to help him and they need to have all information from the clients on the nature of the problem failing which he needs to escalate to AWS for a ticket and this way he can respond to the client.
 ```
 
 ---
